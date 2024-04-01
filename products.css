@@ -1,0 +1,30 @@
+.bye{
+    margin: 0 0 0 0px;
+    background-image: url(photos/back1.jpg);
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    word-spacing: 50px;
+    padding: 30px 30px 30px 30px;
+
+}
+.dance{
+    background-image: url(photos/back3.jpg);
+    background-size: cover;
+    height: 300px;
+}
+.products{
+    height: 700px;
+}
+.left{
+    margin: 0 0 10px 33%;
+    display: inline-block;
+}
+.center{
+    display: inline-block;
+    margin: 0 0 0 10%;
+}
+.right{
+    display: inline-block;
+    margin: 0 0 0 10%;
+}
